@@ -32,13 +32,17 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# NetREXX source file
-*.rex linguist-detectable=true
+# REXX source file
+*.rex linguist-detectable=false
 *.rex linguist-documentation=false
-*.rex linguist-language=NetREXX
-*.rexx linguist-detectable=true
+*.rex linguist-language=REXX
+*.rexx linguist-detectable=false
 *.rexx linguist-documentation=false
-*.rexx linguist-language=NetREXX
+*.rexx linguist-language=REXX
+# NetREXX source file
+*.nrx linguist-detectable=true
+*.nrx linguist-documentation=false
+*.nrx linguist-language=NetREXX
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -177,6 +181,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 3 (2022, Saturday, September 17th at 2:11 pm PST)
-# Line count (including blank lines and compiler line): 183
+# File version: 4 (2022, Sunday, September 18th at 5:07 pm PST)
+# Line count (including blank lines and compiler line): 187
 # End of script
